@@ -1,4 +1,5 @@
 # WhatsApp Chatbot with Twilio, OpenAI, Flask and PostgreSQL
+![image](https://github.com/user-attachments/assets/98b83ec3-7281-4401-8125-b5e268ccf732)
 
 This project is a WhatsApp chatbot built using **Twilio**, **OpenAI**, and **PostgreSQL**. The chatbot is capable of interacting with users through text, and it has a unique feature: it can **understand and process audio inputs directly** from the user, which sets it apart from typical AI chatbots like **MetaAI**.
 
