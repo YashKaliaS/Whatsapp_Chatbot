@@ -14,15 +14,14 @@ This project is a WhatsApp chatbot built using **Twilio**, **OpenAI**, and **Pos
 - **Twilio API:** For WhatsApp messaging integration.
 - **OpenAI GPT:** For generating responses to user inputs.
 - **PostgreSQL:** To store user data and chat logs.
-- **Node.js (Optional):** Backend environment for handling requests.
-- **Express.js (Optional):** Web framework for routing API calls.
+-**Flask**:For server
 - **Speech-to-Text (Optional):** Converts user audio into text for processing.
 
 ## Setup Instructions
 
 ### Prerequisites
 
-- Node.js (if using a Node.js-based backend)
+- Flask ()
 - PostgreSQL (installed locally or using a cloud provider)
 - Twilio account and WhatsApp sandbox setup
 - OpenAI API key
