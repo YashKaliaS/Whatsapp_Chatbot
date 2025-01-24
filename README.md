@@ -54,7 +54,7 @@ This project is a WhatsApp chatbot built using **Twilio**, **OpenAI**, and **Pos
 
 7. **Run the Application:**
    ```bash
-   npm start
+   uvicorn main:app --reload --log-level debug
    ```
 
 8. **Test the Bot:**
